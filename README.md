@@ -29,7 +29,7 @@
 
 <details align="center">
   
-  <summary>GitHub Stats</summary>
+  <summary>📈&nbsp; GitHub Stats</summary>
   
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=buondevid&show_icons=true&locale=en" alt="buondevid" /></p>
 
@@ -38,3 +38,21 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=buondevid&show_icons=true&locale=en&layout=compact" alt="buondevid" /></p>
 
 </details>
+
+<details align="center">
+  
+  <summary>:rocket:&nbsp; List of my project, from the most recent:</summary>
+
+<ol align="left">
+  <li><a href="https://buondevid.github.io/restaurant-page/">Restaurant Page</a></li>
+  <li><a href="https://buondevid.github.io/tic-tac-toe/">Tic Tac Toe</a></li>
+  <li><a href="https://buondevid.github.io/library/">Library App</a></li>
+  <li><a href="https://buondevid.github.io/calculator/">Calculator</a></li>
+  <li><a href="https://buondevid.github.io/etch-a-sketch/">Etch-a-Sketch</a></li>
+  <li><a href="https://buondevid.github.io/rock-scissors-paper/">Rock Scissors Paper</a></li>
+  <li><a href="https://buondevid.github.io/pianoforte/">Pianoforte App</a></li>
+  <li><a href="https://buondevid.github.io/google-homepage/">Google Homepage</a></li>
+</ol>
+
+</details>
+
