@@ -44,15 +44,15 @@
   <summary>:rocket:&nbsp; List of my project, from the most recent:</summary>
 
 <ol align="left">
-  <li><a target='_blank' href="https://buondevid.github.io/restaurant-page/">Restaurant Page</a></li>
-  <li><a target='_blank' href="https://buondevid.github.io/tic-tac-toe/">Tic Tac Toe</a></li>
-  <li><a target='_blank' href="https://buondevid.github.io/library/">Library App</a></li>
-  <li><a target='_blank' href="https://buondevid.github.io/calculator/">Calculator</a></li>
-  <li><a target='_blank' href="https://buondevid.github.io/etch-a-sketch/">Etch-a-Sketch</a></li>
-  <li><a target='_blank' href="https://buondevid.github.io/rock-scissors-paper/">Rock Scissors Paper</a></li>
-  <li><a target='_blank' href="https://buondevid.github.io/pianoforte/">Pianoforte App</a></li>
-  <li><a target='_blank' href="https://buondevid.github.io/google-homepage/">Google Homepage</a></li>
-  <li><a target='_blank' href="https://codepen.io/buondevid">My very first 5 serious beginner projects on Codepen </a>
+  <li><a href="https://buondevid.github.io/restaurant-page/">Restaurant Page</a></li>
+  <li><a href="https://buondevid.github.io/tic-tac-toe/">Tic Tac Toe</a></li>
+  <li><a href="https://buondevid.github.io/library/">Library App</a></li>
+  <li><a href="https://buondevid.github.io/calculator/">Calculator</a></li>
+  <li><a href="https://buondevid.github.io/etch-a-sketch/">Etch-a-Sketch</a></li>
+  <li><a href="https://buondevid.github.io/rock-scissors-paper/">Rock Scissors Paper</a></li>
+  <li><a href="https://buondevid.github.io/pianoforte/">Pianoforte App</a></li>
+  <li><a href="https://buondevid.github.io/google-homepage/">Google Homepage</a></li>
+  <li><a href="https://codepen.io/buondevid">My very first 5 serious beginner projects on Codepen </a>
     <ul>
     <li>Tribute page</li>
     <li>Form</li>
