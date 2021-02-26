@@ -13,7 +13,7 @@
 
 - 👯 &nbsp;I’m looking to collaborate on any cool idea or open source projects
 
-- 📫 &nbsp;Write me <davidebriano@gmail.com>
+- 📫 &nbsp;Write me <b.davide91@gmail.com>
 
 - ⚡ &nbsp;Fun fact: *I'm an atypical Italian... I don't like football, I tried pineapple on pizza (and survived it) and I love cold weather!!*
 
