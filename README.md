@@ -11,9 +11,9 @@
 
 - 🌱 &nbsp;I’m currently learning **Full Stack JS Web Development**
 
-- 👯 &nbsp;I’m looking to collaborate on any cool idea or open source projects
+- :book: &nbsp;Tech, stacks and courses I will focus on next: _Node_, _React_, _Typescript_, _Express_, _MongoDB_, _GCP_, _UX Google certification_, _Harvard CS50_
 
-- 📫 &nbsp;Write me <b.davide91@gmail.com>
+- 📫 &nbsp;Write me: <b.davide91@gmail.com>
 
 - ⚡ &nbsp;Fun fact: *I'm an atypical Italian... I don't like football, I tried pineapple on pizza (and survived it) and I love cold weather!!*
 
