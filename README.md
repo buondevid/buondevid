@@ -31,11 +31,22 @@
   
   <summary>📈&nbsp; GitHub Stats</summary>
   
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=buondevid&show_icons=true&locale=en" alt="buondevid" /></p>
+  <br>
+  
+<p align="center">&nbsp;
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=buondevid&show_icons=true&locale=en&count_private=true&&theme=great-gatsby" alt="buondevid" />
+  
+</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=buondevid&" alt="buondevid" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=buondevid&" alt="buondevid" /></p> -->
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=great-gatsby">
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=buondevid&show_icons=true&locale=en&layout=compact" alt="buondevid" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buondevid&layout=compact&theme=great-gatsby">
+</p>
 
 </details>
 
