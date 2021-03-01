@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buondevid" alt="buondevid" /></a> </p>
 <br>
 
-- 🔭 &nbsp;I’m currently working on [Restaurant Page](https://buondevid.github.io/restaurant-page/)
+- 🔭 &nbsp;I’m currently working on a **Todo App**
 
 - 🌱 &nbsp;I’m currently learning **Full Stack JS Web Development**
 
@@ -44,6 +44,7 @@
   <summary>:rocket:&nbsp; List of my project, from the most recent:</summary>
 
 <ol align="left">
+  <li><a href="">Todo App</a></li>
   <li><a href="https://buondevid.github.io/restaurant-page/">Restaurant Page</a></li>
   <li><a href="https://buondevid.github.io/tic-tac-toe/">Tic Tac Toe</a></li>
   <li><a href="https://buondevid.github.io/library/">Library App</a></li>
