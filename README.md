@@ -44,7 +44,7 @@
   <summary>:rocket:&nbsp; List of my project, from the most recent:</summary>
 
 <ol align="left">
-  <li><a href="">Todo App</a></li>
+  <li><a href="#">Todo App</a></li>
   <li><a href="https://buondevid.github.io/restaurant-page/">Restaurant Page</a></li>
   <li><a href="https://buondevid.github.io/tic-tac-toe/">Tic Tac Toe</a></li>
   <li><a href="https://buondevid.github.io/library/">Library App</a></li>
