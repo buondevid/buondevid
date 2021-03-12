@@ -55,7 +55,7 @@
   <summary>:rocket:&nbsp; List of my project, from the most recent:</summary>
 
 <ol align="left">
-  <li><a href="https://buondevid.github.io/custom-select-dropdown/">Todo App</a></li>
+  <li><a href="https://buondevid.github.io/custom-select-dropdown/">UI: custom dropdown element</a></li>
   <li><a href="https://buondevid.github.io/todo-app/">Todo App</a></li>
   <li><a href="https://buondevid.github.io/restaurant-page/">Restaurant Page</a></li>
   <li><a href="https://buondevid.github.io/tic-tac-toe/">Tic Tac Toe</a></li>
