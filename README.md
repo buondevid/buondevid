@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buondevid" alt="buondevid" /></a> </p>
 <br>
 
-- 🔭 &nbsp;I’m currently working on a [**Custom Dropdown element**](https://buondevid.github.io/custom-select-dropdown/)
+- 🔭 &nbsp;I’m currently working on the [**Form Costrain API JS**](https://buondevid.github.io/form-costraint-API-JS/)
 
 - 🌱 &nbsp;I’m currently learning **Full Stack JS Web Development**
 
@@ -55,7 +55,8 @@
   <summary>:rocket:&nbsp; List of my project, from the most recent:</summary>
 
 <ol align="left">
-  <li><a href="https://buondevid.github.io/custom-select-dropdown/">UI: custom dropdown element</a></li>
+  <li><a href="https://buondevid.github.io/form-costraint-API-JS/"><em>minor</em> JS: form costraint API tryout</a></li>
+  <li><a href="https://buondevid.github.io/custom-select-dropdown/"><em>minor</em> UI: custom dropdown element</a></li>
   <li><a href="https://buondevid.github.io/todo-app/">Todo App</a></li>
   <li><a href="https://buondevid.github.io/restaurant-page/">Restaurant Page</a></li>
   <li><a href="https://buondevid.github.io/tic-tac-toe/">Tic Tac Toe</a></li>
