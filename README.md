@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buondevid" alt="buondevid" /></a> </p>
 <br>
 
-- 🔭 &nbsp;I’m currently working on the [**Form Costrain API JS**](https://buondevid.github.io/form-costraint-API-JS/)
+- 🔭 &nbsp;I’m currently working on the [**Form Costraint API JS**](https://buondevid.github.io/form-costraint-API-JS/)
 
 - 🌱 &nbsp;I’m currently learning **Full Stack JS Web Development**
 
@@ -68,11 +68,11 @@
   <li><a href="https://buondevid.github.io/google-homepage/">Google Homepage</a></li>
   <li><a href="https://codepen.io/buondevid">My very first 5 serious beginner projects on Codepen </a>
     <ul>
-    <li>Tribute page</li>
-    <li>Form</li>
-    <li>Landing Page</li>
-    <li>Portofolio</li>
-    <li>Technical Documentation Page</li>
+      <li><a href="https://codepen.io/buondevid/pen/vYXyGzM">Technical Documentation Page</a></li>
+      <li>Portfolio</li>
+      <li>Landing Page</li>
+      <li>Form</li>
+      <li>Tribute Page</li>
     </ul>
   </li>
 </ol>
