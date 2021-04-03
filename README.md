@@ -11,7 +11,7 @@
 
 - 🌱 &nbsp;I’m currently learning **Full Stack JS Web Development**
 
-- :book: &nbsp;Tech, stacks and courses I will focus on next: _Node_, _React_, _Typescript_, _Express_, _MongoDB_, _GCP_, _UX Google certification_, _Harvard CS50_
+- :book: &nbsp;Tech, stacks and courses I will focus on next: _Node_, _React_, _Typescript_, _Express_, _MongoDB_, _GCP_, _UX Google certification_, _Harvard CS50_, _React Native_
 
 - 📫 &nbsp;Write me: <b.davide91@gmail.com>
 
