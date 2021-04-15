@@ -69,7 +69,7 @@
   <li><a href="https://codepen.io/buondevid">My very first 5 serious beginner projects on Codepen </a>
     <ul>
       <li><a href="https://codepen.io/buondevid/pen/vYXyGzM">Technical Documentation Page</a></li>
-      <li>Portfolio</li>
+      <li><a href="https://codepen.io/buondevid/pen/qBaqMRb">Portfolio</a></li>
       <li>Landing Page</li>
       <li>Form</li>
       <li>Tribute Page</li>
