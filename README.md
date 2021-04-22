@@ -66,7 +66,7 @@
   <li><a href="https://buondevid.github.io/rock-scissors-paper/">Rock Scissors Paper</a></li>
   <li><a href="https://buondevid.github.io/pianoforte/">Pianoforte App</a></li>
   <li><a href="https://buondevid.github.io/google-homepage/">Google Homepage</a></li>
-  <li><a href="https://codepen.io/buondevid">My very first 5 serious beginner projects on Codepen </a>
+  <li><a href="https://codepen.io/buondevid">My very first and oldest 5 beginner projects on Codepen </a>
     <ul>
       <li><a href="https://codepen.io/buondevid/pen/vYXyGzM">Technical Documentation Page</a></li>
       <li><a href="https://codepen.io/buondevid/pen/qBaqMRb">Portfolio</a></li>
