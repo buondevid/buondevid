@@ -9,7 +9,7 @@
 
 - 🔭 &nbsp;I’m currently studying **React JS**
 
-- 🌱 &nbsp;I’m currently following the path of **Full Stack JS Web Developer**
+- 🌱 &nbsp;I’m aiming to become a **Full Stack JS Web Developer**
 
 - :book: &nbsp;Tech, stacks and courses I will focus on next: _Node_, _React_, _Typescript_, _Express_, _MongoDB_, _GCP_, _UX Google certification_, _Harvard CS50_, _React Native_, _Flutter_
 
@@ -72,7 +72,7 @@
       <li><a href="https://codepen.io/buondevid/pen/qBaqMRb">Portfolio</a></li>
       <li><a href="https://codepen.io/buondevid/pen/rNMMoaX">Landing Page</a></li>
       <li><a href="https://codepen.io/buondevid/pen/PoGGaqg">Form</a></li>
-      <li>Tribute Page</li>
+      <li><a href="https://codepen.io/buondevid/pen/mdrrVBK">Tribute Page</a></li>
     </ul>
   </li>
 </ol>
