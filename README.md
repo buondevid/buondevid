@@ -29,29 +29,6 @@
 
 <details align="center">
   
-  <summary>📈&nbsp; GitHub Stats</summary>
-  
-  <br>
-  
-<p align="center">&nbsp;
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=buondevid&show_icons=true&locale=en&count_private=true&&theme=great-gatsby" alt="buondevid" />
-  
-</p>
-
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=buondevid&" alt="buondevid" /></p> -->
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=buondevid&theme=great-gatsby">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buondevid&layout=compact&theme=great-gatsby">
-</p>
-
-</details>
-
-<details align="center">
-  
   <summary>:rocket:&nbsp; List of my project, from the most recent:</summary>
 
 <ol align="left">
@@ -93,3 +70,25 @@
 
 </details>
 
+<details align="center">
+  
+  <summary>📈&nbsp; GitHub Stats</summary>
+  
+  <br>
+  
+<p align="center">&nbsp;
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=buondevid&show_icons=true&locale=en&count_private=true&&theme=great-gatsby" alt="buondevid" />
+  
+</p>
+
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=buondevid&" alt="buondevid" /></p> -->
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=buondevid&theme=great-gatsby">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buondevid&layout=compact&theme=great-gatsby">
+</p>
+
+</details>
