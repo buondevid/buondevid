@@ -79,3 +79,17 @@
 
 </details>
 
+<details align="center">
+  
+  <summary>:scroll:&nbsp; My certificates</summary>
+  
+  <br>
+  
+<p align="center">&nbsp;
+  
+  <img src="https://user-images.githubusercontent.com/36935593/117206379-14a5cb00-adf3-11eb-9d7d-fa7914a0ac30.png" alt="FCC certificate" width="800">
+  
+</p>
+
+</details>
+
