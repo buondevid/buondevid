@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buondevid" alt="buondevid" /></a> </p>
 <br>
 
-- 🔭 &nbsp;I’m currently studying **React JS**
+- 🔭 &nbsp;I’m currently studying **React JS** and working on a *personal project*
 
 - 🌱 &nbsp;I’m aiming to become a **Full Stack JS Web Developer**
 
