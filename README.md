@@ -7,11 +7,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buondevid" alt="buondevid" /></a> </p>
 <br>
 
-- 🔭 &nbsp;I’m currently studying **React JS** and working on a *personal project*
+- 🔭 &nbsp;I’m currently doing an internship as developer in a company, using mainly __React__ and __NextJS__
 
 - 🌱 &nbsp;I’m aiming to become a **Full Stack JS Web Developer**
 
-- :book: &nbsp;Tech, stacks and courses I will focus on next: _Node_, _React_, _Typescript_, _Express_, _MongoDB_, _GCP_, _UX Google certification_, _Harvard CS50_, _React Native_, _Flutter_
+- :book: &nbsp;Tech, stacks and courses I will focus on next: _Harvard CS50_, _Node_, _Typescript_, _Express_, _MongoDB_, _GCP_, _UX Google certification_, _React Native_, _Flutter_
 
 - 📫 &nbsp;Write me: <b.davide91@gmail.com>
 
@@ -23,8 +23,8 @@
 </p> -->
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://sass-lang.com" target="_blank"> <img margin="10px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>  </p>
-
+<p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://sass-lang.com" target="_blank"> <img margin="10px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://www.styled-components.com/" target="_blank"> <img src="https://github.com/styled-components/brand/blob/master/styled-components.svg" alt="styled-components" width="60" height="60"/> </a> &nbsp;&nbsp; <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/> </a> 
+  
 ---
 
 <details align="center">
