@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buondevid" alt="buondevid" /></a> </p>
 <br>
 
-- 🔭 &nbsp;I’m currently doing an internship as developer in a company, using mainly __React__ and __NextJS__
+- 🔭 &nbsp;I’m currently doing an internship as Frontend developer @[Lifekeys](https://lifekeys.no/), using mainly __React__ and __NextJS__: check also my [Gitlab](https://gitlab.com/buondevid) profile to see my activity there!
 
 - 🌱 &nbsp;I’m aiming to become a **Full Stack JS Web Developer**
 
