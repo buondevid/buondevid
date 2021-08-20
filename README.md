@@ -94,3 +94,9 @@
 </p>
 
 </details>
+  
+---
+  
+I also love to write guides, tutorials and everything related to coding! Here are my latest articles on __Medium__:
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@davidebriano/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0">
