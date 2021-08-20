@@ -97,6 +97,6 @@
   
 ---
   
-I also love to write guides, tutorials, insights about everything related to coding! Being myself an avid reader, I started writing as well and I noticed it's one of the best ways to learn and retain info.  Here are my latest articles on __Medium__:
+🖋️ I also love to write guides, tutorials, insights about everything related to coding! Being myself an avid reader, I started writing as well and I noticed it's one of the best ways to learn and retain info.  Here are my latest articles on __Medium__:
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@davidebriano/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@davidebriano/0" alt="Recent Article 0">
