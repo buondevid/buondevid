@@ -66,7 +66,13 @@
   
 <p align="center">&nbsp;
   
-  <img src="https://user-images.githubusercontent.com/36935593/117206379-14a5cb00-adf3-11eb-9d7d-fa7914a0ac30.png" alt="FCC certificate" width="800">
+  <img src="https://user-images.githubusercontent.com/36935593/117206379-14a5cb00-adf3-11eb-9d7d-fa7914a0ac30.png" alt="FCC certificate Web Design" width="800">
+
+</p>
+
+<p align="center">&nbsp;
+  
+  <img src="https://user-images.githubusercontent.com/36935593/131003511-220b69b5-063d-4e0d-a30f-b1f6289e004d.png" alt="FCC certificate Javascript" width="800">
   
 </p>
 
