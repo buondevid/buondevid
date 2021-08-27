@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
-<p align="center">A curious Full Stack JS developer (in progress) from Italy :it: , currently living the Norwegian dream in Oslo :norway:</p>
+<p align="center">A curious Full Stack JavaScript developer (in progress) from Italy :it: , currently living the Norwegian dream in Oslo :norway:</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=buondevid&label=Profile%20views&color=ce9927&style=flat" alt="buondevid" /> </p> -->
 <br>
@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buondevid" alt="buondevid" /></a> </p>
 <br>
 
-- 🔭 &nbsp;I’m currently doing an internship as Frontend developer @[Lifekeys](https://lifekeys.no/), using mainly __React__ and __NextJS__: check also my [Gitlab](https://gitlab.com/buondevid) profile to see my activity there!
+- 🔭 &nbsp;I’m currently working at the amazing [Kindly](https://www.kindly.ai/) in Oslo as a Front-end developer!
 
 - 🌱 &nbsp;I’m aiming to become a **Full Stack JS Web Developer**
 
