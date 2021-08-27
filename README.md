@@ -32,8 +32,9 @@
   <summary>:rocket:&nbsp; List of my project, from the most recent:</summary>
 
 <ol align="left">
-  <li><a href="https://nostalgic-jennings-48fe75.netlify.app/"> React UI: Task Tracker</a></li>
-  <li><a href="https://60cbcaad6844ff009c4f2b5d--awesome-gates-d44cb3.netlify.app/"> React app: Fish market's online shop</a></li>
+  <li><a href="https://buondevid.github.io/travel-list-app/">Travel List App (React)</a></li>
+  <li><a href="https://nostalgic-jennings-48fe75.netlify.app/">Task Tracker (React)</a></li>
+  <li><a href="https://60cbcaad6844ff009c4f2b5d--awesome-gates-d44cb3.netlify.app/">Fish market's online shop (React)</a></li>
   <li><a href="https://buondevid.github.io/form-costraint-API-JS/"><em>minor</em> JS: form costraint API tryout</a></li>
   <li><a href="https://buondevid.github.io/custom-select-dropdown/"><em>minor</em> UI: custom dropdown element</a></li>
   <li><a href="https://buondevid.github.io/todo-app/">Todo App</a></li>
