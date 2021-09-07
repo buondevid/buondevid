@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buondevid" alt="buondevid" /></a> </p>
 <br>
 
-- 🔭 &nbsp;I’m currently working at [Kindly](https://www.kindly.ai/) in Oslo as a Front-end developer!
+- 💼 &nbsp;I’m currently working at [Kindly](https://www.kindly.ai/) in Oslo as a Front-end developer!
 
 - 🌱 &nbsp;I’m aiming to become a **Full Stack JS Web Developer**
 
