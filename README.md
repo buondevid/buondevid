@@ -15,7 +15,7 @@
 
 - 📫 &nbsp;Write me: <b.davide91@gmail.com>
 
-- ⚡ &nbsp;Fun fact: *I'm an atypical Italian... I don't like football, I tried pineapple on pizza (and survived it) and I love cold weather!!*
+- ⚡ &nbsp;Fun fact: *I'm an atypical Italian... I'm not a big fan of football, I tried pineapple on pizza (and survived it) and I love cold weather!!*
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
