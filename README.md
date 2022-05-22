@@ -29,7 +29,7 @@
 
 <details align="center">
   
-  <summary>:rocket:&nbsp; List of my project, from the most recent:</summary>
+  <summary>:rocket:&nbsp; <strong>List of my project, from the most recent:</strong></summary>
 
 <ol align="left">
   <li><a href="https://buondevid.github.io/travel-list-app/">Travel List App (React)</a></li>
@@ -58,10 +58,30 @@
 </ol>
 
 </details>
+  
+<details align="center">
+  
+  <summary>:books:&nbsp; <strong>Courses I've taken</strong></summary>
+  
+  <ul align="left">
+    <li>:construction: <a href="https://fullstackopen.com/en/">University of Helsinki - Full Stack Open (2022)</a></li>
+    <li>:construction: <a href="https://frontendmasters.com/courses/intermediate-react-v4/">Brian Holt - Intermediate React v4 (2022)</a></li>
+    <li>:heavy_check_mark: 05/2022 <a href="https://frontendmasters.com/courses/typescript-practice/">Mike North - Making Typescript Stick (2022)</a></li>
+    <li>:heavy_check_mark: 03/2022 <a href="https://frontendmasters.com/courses/production-typescript/">Mike North - Production-Grade Typescript (2022)</a></li>
+    <li>:heavy_check_mark: 03/2022 <a href="https://frontendmasters.com/courses/intermediate-typescript/">Mike North - Intermediate Typescript (2022)</a></li>
+    <li>:heavy_check_mark: 02/2022 <a href="https://frontendmasters.com/courses/typescript-v3/">Mike North - Typescript Fundamentals v3 (2022)</a></li>
+    <li>:heavy_check_mark: 08/2021 <a href="https://epicreact.dev/">Kent C. Dodds - Epic React (2021)</a></li>
+    <li>:heavy_check_mark: 06/2021 <a href="https://pro.academind.com/p/nextjs-react-the-complete-guide">Academind - NextJS & React - The Complete Guide (2021)</a></li>
+    <li>:heavy_check_mark: 06/2021 <a href="https://pro.academind.com/p/react-the-complete-guide">React - The Complete Guide 2021 (2021)</a></li>
+    <li>:heavy_check_mark: 2020/2021 <a href="https://www.theodinproject.com/">The Odin Project</a></li>
+    <li>:heavy_check_mark: 2020/2021 <a href="https://www.freecodecamp.org/buondevid">freeCodeCamp</a></li>
+  </ul>
+  
+</details>
 
 <details align="center">
   
-  <summary>:scroll:&nbsp; My certificates</summary>
+  <summary>:scroll:&nbsp; <strong>My certificates</strong></summary>
   
   <br>
   
@@ -81,7 +101,7 @@
 
 <details align="center">
   
-  <summary>📈&nbsp; GitHub Stats</summary>
+  <summary>📈&nbsp; <strong>GitHub Stats</strong></summary>
   
   <br>
   
