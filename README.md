@@ -59,7 +59,7 @@
 
 </details>
   
-<details align="center">
+<details align="center" open>
   
   <summary>:books:&nbsp; <strong>Courses I've taken</strong></summary>
   
