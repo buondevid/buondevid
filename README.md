@@ -72,7 +72,7 @@
     <li>:heavy_check_mark: 02/2022 <a href="https://frontendmasters.com/courses/typescript-v3/">Mike North - Typescript Fundamentals v3 (2022)</a></li>
     <li>:heavy_check_mark: 08/2021 <a href="https://epicreact.dev/">Kent C. Dodds - Epic React (2021)</a></li>
     <li>:heavy_check_mark: 06/2021 <a href="https://pro.academind.com/p/nextjs-react-the-complete-guide">Academind - NextJS & React - The Complete Guide (2021)</a></li>
-    <li>:heavy_check_mark: 06/2021 <a href="https://pro.academind.com/p/react-the-complete-guide">React - The Complete Guide 2021 (2021)</a></li>
+    <li>:heavy_check_mark: 06/2021 <a href="https://pro.academind.com/p/react-the-complete-guide">Academind - React - The Complete Guide 2021 (2021)</a></li>
     <li>:heavy_check_mark: 2020/2021 <a href="https://www.theodinproject.com/">The Odin Project</a></li>
     <li>:heavy_check_mark: 2020/2021 <a href="https://www.freecodecamp.org/buondevid">freeCodeCamp</a></li>
   </ul>
