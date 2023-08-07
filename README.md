@@ -13,6 +13,8 @@
 
 - :book: &nbsp;Tech, stacks and courses I will focus on next: _Harvard CS50_, _Node_, _Typescript_, _Express_, _MongoDB_, _GCP_, _UX Google certification_, _React Native_, _Flutter_
 
+- 🔨 I made a Chrome Extension! It's called **BackTab**, to help you cycle back and forward through your last 10 active tabs, you can download it [here](https://chrome.google.com/webstore/detail/backtab/llmkobjeihbjhjembednoaphiocminap)
+
 - 📫 &nbsp;Write me: buondevid AT gmail.com
 
 - ⚡ &nbsp;Fun fact: *I'm an atypical Italian... I'm not a big fan of football, I tried pineapple on pizza (and survived it) and I love cold weather!!*
