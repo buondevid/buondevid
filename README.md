@@ -15,7 +15,7 @@
 
 - 🔨 I made a Chrome Extension! It's called **BackTab**, to help you cycle back and forward through your last 10 active tabs, you can download it [here](https://chrome.google.com/webstore/detail/backtab/llmkobjeihbjhjembednoaphiocminap)
 
-- 📫 &nbsp;Write me: buondevid AT gmail.com
+- 📫 &nbsp;Write me: buondevid AT gmail DOT com
 
 - ⚡ &nbsp;Fun fact: *I'm an atypical Italian... I'm not a big fan of football, I tried pineapple on pizza (and survived it) and I love cold weather!!*
 
