@@ -15,7 +15,7 @@
 
 - 🔨 I made a Chrome Extension! It's called **BackTab**, to help you cycle back and forward through your last 10 active tabs, you can download it [here](https://chrome.google.com/webstore/detail/backtab/llmkobjeihbjhjembednoaphiocminap)
 
-- 🌎 I created and maintain some professional websites like https://henrikkehavaas.com
+- 🌎 I created, designed and maintain some professional websites like https://henrikkehavaas.com
 
 - 👨‍💻 I developend an (internal and private) CLI package on NPM called [`pronto`](https://www.npmjs.com/package/@kindly/pronto) for my company growing tech team (>15) to manage depoyments and infra communication
 
