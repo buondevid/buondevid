@@ -15,6 +15,10 @@
 
 - 🔨 I made a Chrome Extension! It's called **BackTab**, to help you cycle back and forward through your last 10 active tabs, you can download it [here](https://chrome.google.com/webstore/detail/backtab/llmkobjeihbjhjembednoaphiocminap)
 
+- 🌎 I created and maintain some professional websites like https://henrikkehavaas.com
+
+- 👨‍💻 I developend an (internal and private) CLI package on NPM called [`pronto`](https://www.npmjs.com/package/@kindly/pronto) for my company growing tech team (>15) to manage depoyments and infra communication
+
 - 📫 &nbsp;Write me: buondevid AT gmail DOT com
 
 - ⚡ &nbsp;Fun fact: *I'm an atypical Italian... I'm not a big fan of football, I tried pineapple on pizza (and survived it) and I love cold weather!!*
