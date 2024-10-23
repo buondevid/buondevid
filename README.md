@@ -70,8 +70,9 @@
   <summary>:books:&nbsp; <strong>Courses I've taken</strong></summary>
   
   <ul align="left">
+    <li>:heavy_check_mark: <a href="https://frontendmasters.com/courses/react-native-v3/">Kadi Kraman - React Native, v3 (2024)</a>
     <li>:construction: <a href="https://fullstackopen.com/en/">University of Helsinki - Full Stack Open (2022)</a></li>
-    <li>:construction: <a href="https://frontendmasters.com/courses/intermediate-react-v4/">Brian Holt - Intermediate React v4 (2022)</a></li>
+    <li>:heavy_check_mark: <a href="https://frontendmasters.com/courses/intermediate-react-v4/">Brian Holt - Intermediate React v4 (2023)</a></li>
     <li>:heavy_check_mark: 05/2022 <a href="https://frontendmasters.com/courses/typescript-practice/">Mike North - Making Typescript Stick (2022)</a></li>
     <li>:heavy_check_mark: 03/2022 <a href="https://frontendmasters.com/courses/production-typescript/">Mike North - Production-Grade Typescript (2022)</a></li>
     <li>:heavy_check_mark: 03/2022 <a href="https://frontendmasters.com/courses/intermediate-typescript/">Mike North - Intermediate Typescript (2022)</a></li>
