@@ -70,18 +70,21 @@
   <summary>:books:&nbsp; <strong>Courses I've taken</strong></summary>
   
   <ul align="left">
+    <li>:construction: <a href="https://frontendmasters.com/courses/react-native-v3">Kadi Kraman - Intermediate React Native, v2 (2025)</a>
+    <li>:heavy_check_mark: <a href="https://frontendmasters.com/courses/react-native-v3">Melkey - Complete Go for Developers (2025)</a>
+    <li>:heavy_check_mark: <a href="https://frontendmasters.com/courses/react-native-v3/">Jem Young - Full Stack for Front-End Engineers, v3 (2025)</a>
     <li>:heavy_check_mark: <a href="https://frontendmasters.com/courses/react-native-v3/">Kadi Kraman - React Native, v3 (2024)</a>
-    <li>:construction: <a href="https://fullstackopen.com/en/">University of Helsinki - Full Stack Open (2022)</a></li>
+    <li>:construction: <a href="https://fullstackopen.com/en/">University of Helsinki - Full Stack Open (2023)</a></li>
     <li>:heavy_check_mark: <a href="https://frontendmasters.com/courses/intermediate-react-v4/">Brian Holt - Intermediate React v4 (2023)</a></li>
-    <li>:heavy_check_mark: 05/2022 <a href="https://frontendmasters.com/courses/typescript-practice/">Mike North - Making Typescript Stick (2022)</a></li>
-    <li>:heavy_check_mark: 03/2022 <a href="https://frontendmasters.com/courses/production-typescript/">Mike North - Production-Grade Typescript (2022)</a></li>
-    <li>:heavy_check_mark: 03/2022 <a href="https://frontendmasters.com/courses/intermediate-typescript/">Mike North - Intermediate Typescript (2022)</a></li>
-    <li>:heavy_check_mark: 02/2022 <a href="https://frontendmasters.com/courses/typescript-v3/">Mike North - Typescript Fundamentals v3 (2022)</a></li>
-    <li>:heavy_check_mark: 08/2021 <a href="https://epicreact.dev/">Kent C. Dodds - Epic React (2021)</a></li>
-    <li>:heavy_check_mark: 06/2021 <a href="https://pro.academind.com/p/nextjs-react-the-complete-guide">Academind - NextJS & React - The Complete Guide (2021)</a></li>
-    <li>:heavy_check_mark: 06/2021 <a href="https://pro.academind.com/p/react-the-complete-guide">Academind - React - The Complete Guide 2021 (2021)</a></li>
-    <li>:heavy_check_mark: 2020/2021 <a href="https://www.theodinproject.com/">The Odin Project</a></li>
-    <li>:heavy_check_mark: 2020/2021 <a href="https://www.freecodecamp.org/buondevid">freeCodeCamp</a></li>
+    <li>:heavy_check_mark: <a href="https://frontendmasters.com/courses/typescript-practice/">Mike North - Making Typescript Stick (2022)</a></li>
+    <li>:heavy_check_mark: <a href="https://frontendmasters.com/courses/production-typescript/">Mike North - Production-Grade Typescript (2022)</a></li>
+    <li>:heavy_check_mark: <a href="https://frontendmasters.com/courses/intermediate-typescript/">Mike North - Intermediate Typescript (2022)</a></li>
+    <li>:heavy_check_mark: <a href="https://frontendmasters.com/courses/typescript-v3/">Mike North - Typescript Fundamentals v3 (2022)</a></li>
+    <li>:heavy_check_mark: <a href="https://epicreact.dev/">Kent C. Dodds - Epic React (2021)</a></li>
+    <li>:heavy_check_mark: <a href="https://pro.academind.com/p/nextjs-react-the-complete-guide">Academind - NextJS & React - The Complete Guide (2021)</a></li>
+    <li>:heavy_check_mark: <a href="https://pro.academind.com/p/react-the-complete-guide">Academind - React - The Complete Guide 2021 (2021)</a></li>
+    <li>:heavy_check_mark: <a href="https://www.theodinproject.com/">The Odin Project</a></li>
+    <li>:heavy_check_mark: <a href="https://www.freecodecamp.org/buondevid">freeCodeCamp</a></li>
   </ul>
   
 </details>
