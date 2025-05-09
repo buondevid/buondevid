@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
-<p align="center">A curious Full Stack JavaScript developer (in progress) from Italy :it: , currently living the Norwegian dream in Oslo :norway:</p>
+<p align="center">A curious Full Stack Typescript developer from Italy :it: , currently living the Norwegian dream in Oslo :norway:</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=buondevid&label=Profile%20views&color=ce9927&style=flat" alt="buondevid" /> </p> -->
 <br>
